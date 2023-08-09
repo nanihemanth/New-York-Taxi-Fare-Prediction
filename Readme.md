@@ -116,5 +116,5 @@ Contributions to the NYC Taxi Fare Prediction Web App are welcome. If you encoun
 
 ## License
 
-This project is licensed under the [GPL-v3](LICENSE).
+This project is licensed under the [MIT](LICENSE).
 
