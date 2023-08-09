@@ -64,19 +64,19 @@ After entering the inputs(number of passengers,distance,year), the app will pred
 ## Visualization
 
 - Count Plot for the number of taxi rides for each passenger-count
-    ![Visualization-1](images/g1.png)
+	![Visualization-1](images/g1.png)
 
 - Count Plot for the number of taxi rides for each shift
-    ![Visualization-2](images/g2.png)
+	![Visualization-2](images/g2.png)
 
 - Count plot for the number of taxi rides in each year
 	![Visualization-3](images/g3.png)
 
 - Count plot for the number of taxi rides in each year and shift
-    ![Visualization-4](images/g4.png)
+	![Visualization-4](images/g4.png)
 
 - Count plot for the number of taxi rides in each year and type
-    ![Visualization-5](images/g5.png)
+	![Visualization-5](images/g5.png)
 
 - Trends in total average amount vs YEAR,MONTH,DAY,HOUR
 	![Visualization-6](images/g6.png)
